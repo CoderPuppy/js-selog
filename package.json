@@ -1,0 +1,15 @@
+{
+	"name": "selog",
+	"version": "0.0.0",
+	"description": "A wrapper around debug for easier nesting",
+	"author": "CoderPuppy",
+	"license": "MIT",
+	"homepage": "http://github.com/CoderPuppy/js-selog",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/CoderPuppy/js-selog.git"
+	},
+	"dependencies": {
+		"debug": "^2.1.0"
+	}
+}
